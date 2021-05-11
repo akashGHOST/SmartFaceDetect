@@ -1,6 +1,9 @@
 # SmartBrain - v1
-Final project for ZTM course
+https://serene-oasis-93740.herokuapp.com/ 
 
+To view the project click on the above link.
+
+To run this project on your system--
 1. Clone this repo
 2. Run `npm install`
 3. Run `npm start`
